@@ -36,5 +36,4 @@ while True:
             socks.append(conn) # 소켓 리스트에 추가
             print('Client ({}) connected'.format(addr))
         else:
-            print('connected by', addr)
             chat(sock) # 해당 소켓으로 멀티채팅 시작
