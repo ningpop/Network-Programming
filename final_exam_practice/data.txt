@@ -1,0 +1,12 @@
+Wed Jun 09 03:53:03 2021: Device2: Heartbeat=139 Steps=5669 Cal=1725
+Wed Jun 09 03:53:40 2021: Device1: Temp=28 Humid=36 Illum=122
+Wed Jun 09 03:54:08 2021: Device1: Temp=10 Humid=26 Illum=101
+Wed Jun 09 03:54:08 2021: Device1: Temp=19 Humid=65 Illum=111
+Wed Jun 09 03:54:08 2021: Device1: Temp=33 Humid=38 Illum=143
+Wed Jun 09 03:54:08 2021: Device1: Temp=14 Humid=9 Illum=145
+Wed Jun 09 03:54:08 2021: Device1: Temp=33 Humid=61 Illum=75
+Wed Jun 09 03:54:08 2021: Device2: Heartbeat=132 Steps=4723 Cal=1845
+Wed Jun 09 03:54:08 2021: Device2: Heartbeat=47 Steps=4144 Cal=3484
+Wed Jun 09 03:54:08 2021: Device2: Heartbeat=114 Steps=3410 Cal=2387
+Wed Jun 09 03:54:08 2021: Device2: Heartbeat=86 Steps=3015 Cal=2358
+Wed Jun 09 03:54:08 2021: Device2: Heartbeat=120 Steps=4843 Cal=2552
